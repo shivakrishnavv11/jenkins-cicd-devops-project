@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "shivakrishnavv11/devops-app"
+        IMAGE = "shivakrishnavv11/jenkins-cicd-app"
     }
 
     stages {
