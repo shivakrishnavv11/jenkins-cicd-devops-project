@@ -3,5 +3,5 @@ WORKDIR /app
 COPY . .
 RUN npm init -y  # Creates package.json
 EXPOSE 3000
-CMD ["node", "app2.js"]
+CMD ["node", "app3.js"]
 
